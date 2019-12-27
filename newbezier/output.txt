@@ -1,0 +1,18 @@
+
+ Nhom 18N15-N12
+ Thanh vien : -Truong Cong Hien Nhan
+              -Tang Ba Hong Phuc
+ Lop : 18TCLC_DT3
+ De tai cua nhom là: Noi suy duong cong Bezier
+ Tap diem thuoc duong cong benzier: 
+x=0;y=0
+x=0;y=0.5
+x=1.1;y=1.4
+x=2.1;y=1.6
+x=3.2;y=1.1
+x=4;y=0.5
+Day la 4 diem tao dung nen duong cong:
+x=0;y=0
+x=0;y=2.53295
+x=2.95923;y=1.28058
+x=4;y=0.5
